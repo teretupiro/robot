@@ -19,4 +19,6 @@ for key in j:
         f = open(dir_students_names + key + "/" + file, "w+")
         if file == "info.txt":
             f.write(key)
+
+        #TODO:Write Age,Sex or SMTH
         f.close()

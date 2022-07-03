@@ -1,1 +1,1 @@
-{"Arseniy Skotnikov": {"files": ["info.txt", "draft.txt"]}, "Rosalia Ibatulina": {"files": ["info.txt", "draft.txt"]}, "Ruslan Sonkin": {"files": ["info.txt", "draft.txt"]}, "Ruslan Vafin": {"files": ["info.txt", "draft.txt"]}, "Timur Timegaliev": {"files": ["info.txt", "draft.txt"]}}
+{"Arseniy Skotnikov": {"files": ["draft.txt", "info.txt"]}, "Rosalia Ibatulina": {"files": ["draft.txt", "info.txt"]}, "Ruslan Sonkin": {"files": ["draft.txt", "info.txt"]}, "Ruslan Vafin": {"files": ["draft.txt", "info.txt"]}, "Timur Timegaliev": {"files": ["draft.txt", "info.txt"]}}
